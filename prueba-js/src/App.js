@@ -104,5 +104,4 @@ class App extends Component {
 
 }
 
-// https://github.com/bbachi/react-nodejs-example/blob/master/my-app/src/App.js
 export default App;
